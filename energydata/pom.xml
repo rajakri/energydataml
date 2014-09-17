@@ -39,6 +39,10 @@
     <artifactId>mahout-integration</artifactId>
     <version>${mahout.version}</version>
 </dependency>
-
+    <dependency>
+      <groupId>org.apache.mahout</groupId>
+      <artifactId>mahout-utils</artifactId>
+      <version>0.4</version>
+    </dependency>
   </dependencies>
 </project>
